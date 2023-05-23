@@ -12,6 +12,7 @@ const Casandra = {
   pronouns: "she" | "her",
   code: [Javascript,HTML, CSS, ],
   tools: [React, Redux],
+  }
   
 
 
