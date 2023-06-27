@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Casandra</h1>
 <h3 align="center">Una apasionada desarrolladora frontend de Mallorca</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=casandrabenpor&label=Profile%20views&color=0e75b6&style=flat" alt="casandrabenpor" /> </p>
+
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
