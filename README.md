@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Casandra</h1>
-<h3 align="center">Una apasionada desarrolladora frontend de Mallorca</h3>
+<h1 align="center">Hello 👋, I'm Casandra</h1>
+<h3 align="center">I'm Casandra, a junior full-stack developer 👨‍💻</h3>
 
 - 🔭 I’m currently working in OXYGEN as a Full Stack Developer.
 
