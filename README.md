@@ -2,7 +2,7 @@
 <h3 align="center">I'm Casandra, a junior full-stack developer 👨‍💻</h3>
   
 - 🔭 I’m currently working in OXYGEN as a Full Stack Developer.           
-                     
+                       
                                    
 <p align="left">                
                                                       
