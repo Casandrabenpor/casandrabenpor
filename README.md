@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Casandra</h1>
 <h3 align="center">I'm Casandra, a junior full-stack developer 👨‍💻</h3>
-  
+   
 - 🔭 I’m currently working in OXYGEN as a Full Stack Developer.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, React, Redux, Node.js, Express.js, PHP, MogoDB, SQL.
 - 👨‍💻 All of my projects are available at https://github.com/Casandrabenpor
