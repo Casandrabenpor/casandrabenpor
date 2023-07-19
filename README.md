@@ -6,9 +6,10 @@
 - 👨‍💻 All of my projects are available at https://github.com/Casandrabenpor
 - 🏠 My personal portfolio: http://localhost:3000/PortfolioCasandra#/
 - 📫 How to reach me casandra211@gmail.com
-                              
+
+<p align="left">                         
                                      
-<p align="left">                        
+                    
                                                         
 
 # 💻 Tech Stack:
