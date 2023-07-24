@@ -7,7 +7,7 @@
 - 🏠 My personal portfolio: https://casandrabenpor.github.io/PortfolioCasandra/
 - 📫 How to reach me casandra211@gmail.com
   
-<p align="left">                               
+<p align="left">                                
                                          
                         
                                                         
